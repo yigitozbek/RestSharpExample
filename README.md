@@ -19,8 +19,8 @@ Explain how to set up your project. Include steps to clone the repo, install dep
 
 bash
 Copy code
-git clone [[RestSharpExample]](https://github.com/yigitozbek/RestSharpExample.git)
-cd [RestSharpExample]
+git clone https://github.com/yigitozbek/RestSharpExample.git
+cd RestSharpExample
 // Add any additional setup steps here
 Usage
 
